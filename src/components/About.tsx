@@ -16,6 +16,7 @@ const About = () => {
                 With a deep understanding of the challenges faced by farmers and a commitment to innovation, we strive to 
                 create solutions that make farming more efficient, sustainable, and profitable.
               </p>
+              <p>COI:U01110TG2022PTC160565</p>
             </div>
 
             {/* Mission & Vision */}
