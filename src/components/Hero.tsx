@@ -16,22 +16,21 @@ const Hero = () => {
           <div className="space-y-6 lg:space-y-8 animate-fadeInUp">
             <div className="space-y-4 lg:space-y-6">
               <h1 className="text-3xl sm:text-4xl lg:text-6xl font-bold text-gray-900 leading-tight">
-                Empowering Farmers with
-                <span className="text-green-600 block animate-slideInRight">Digital Solutions</span>
+                Empowering Rural India with
+                <span className="text-green-600 block animate-slideInRight">Transparent, Tech‑Driven Agriculture</span>
               </h1>
               <p className="text-lg sm:text-xl text-gray-600 leading-relaxed animate-fadeInUp delay-300">
-                KisanLink connects farmers with cutting-edge agricultural technology, 
-                providing smart farming solutions, market access, and financial services 
-                to transform agriculture in India.
+                Kisanlink connects farmers, FPOs, and agri‑enterprises through transparent systems, quality inputs,
+                assured markets, and digital traceability — from seed to supply.
               </p>
             </div>
             
             <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 animate-fadeInUp delay-500">
               <button className="bg-green-600 hover:bg-green-700 text-white font-semibold text-base sm:text-lg px-6 sm:px-8 py-3 sm:py-4 rounded-lg transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-xl animate-pulse">
-                Start Your Journey
+                Explore Solutions
               </button>
               <button className="bg-white hover:bg-gray-50 text-gray-800 font-semibold text-base sm:text-lg px-6 sm:px-8 py-3 sm:py-4 rounded-lg border-2 border-green-600 transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-xl">
-                Watch Demo
+                Join the Network
               </button>
             </div>
 

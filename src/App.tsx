@@ -1,6 +1,10 @@
 
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
+import Vision from './components/Vision'
+import CoreValues from './components/CoreValues'
+import Ecosystem from './components/Ecosystem'
+import Impact from './components/Impact'
 import Services from './components/Services'
 import About from './components/About'
 import Features from './components/Features'
@@ -16,6 +20,10 @@ function App() {
       <Navbar />
       <main>
         <Hero />
+        <Vision />
+        <CoreValues />
+        <Ecosystem />
+        <Impact />
         <Services />
         <About />
         <Features />

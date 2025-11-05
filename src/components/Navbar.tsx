@@ -22,6 +22,18 @@ const Navbar = () => {
             <a href="#home" className="text-gray-800 hover:text-green-600 font-semibold text-sm transition-all duration-300 hover:scale-105">
               Home
             </a>
+            <a href="#vision" className="text-gray-800 hover:text-green-600 font-semibold text-sm transition-all duration-300 hover:scale-105">
+              Vision
+            </a>
+            <a href="#values" className="text-gray-800 hover:text-green-600 font-semibold text-sm transition-all duration-300 hover:scale-105">
+              Values
+            </a>
+            <a href="#ecosystem" className="text-gray-800 hover:text-green-600 font-semibold text-sm transition-all duration-300 hover:scale-105">
+              Ecosystem
+            </a>
+            <a href="#impact" className="text-gray-800 hover:text-green-600 font-semibold text-sm transition-all duration-300 hover:scale-105">
+              Impact
+            </a>
             <a href="#services" className="text-gray-800 hover:text-green-600 font-semibold text-sm transition-all duration-300 hover:scale-105">
               Services
             </a>
@@ -65,6 +77,18 @@ const Navbar = () => {
           <div className="px-2 pt-1 pb-2 space-y-0 bg-white border-t border-gray-200">
             <a href="#home" className="block px-3 py-2 text-gray-800 hover:text-green-600 font-semibold text-sm transition-colors duration-300">
               Home
+            </a>
+            <a href="#vision" className="block px-3 py-2 text-gray-800 hover:text-green-600 font-semibold text-sm transition-colors duration-300">
+              Vision
+            </a>
+            <a href="#values" className="block px-3 py-2 text-gray-800 hover:text-green-600 font-semibold text-sm transition-colors duration-300">
+              Values
+            </a>
+            <a href="#ecosystem" className="block px-3 py-2 text-gray-800 hover:text-green-600 font-semibold text-sm transition-colors duration-300">
+              Ecosystem
+            </a>
+            <a href="#impact" className="block px-3 py-2 text-gray-800 hover:text-green-600 font-semibold text-sm transition-colors duration-300">
+              Impact
             </a>
             <a href="#services" className="block px-3 py-2 text-gray-800 hover:text-green-600 font-semibold text-sm transition-colors duration-300">
               Services
